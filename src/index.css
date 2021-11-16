@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    overflow-x: hidden;
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+.bg-Prod-black {
+    background-color: #535353;
+}
+.bg-Prod-blue {
+    background-color: #0080FF;
+}
+.bg-Prod-white {
+    background-color: #FFFFFF;
+}
+.bg-Prod-pink {
+    background-color: #FAB1B1;
+}
+.bg-Prod-violet {
+    background-color: #BCB1FA;
+}
+.bg-Prod-red {
+    background-color: #F85B5B;
+}
+.bg-Prod-green {
+    background-color: #55F8AB;
+}
+.bg-Prod-green {
+    background-color: #E4E4E4;
+}
+
